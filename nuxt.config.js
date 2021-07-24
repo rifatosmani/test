@@ -1,11 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
-  ssr:true,
-  env:{
-    BASE_URL:''
-  },
   head: {
-    title: 'test',
+    title: 'hypermedia-project',
     htmlAttrs: {
       lang: 'en'
     },
